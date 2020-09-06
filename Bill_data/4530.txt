@@ -1,0 +1,19 @@
+	All in One Shop Retail
+
+Bill Number : 4530
+Customer Name :madhav 
+Phone Number :7814064561
+-------------------------------------------
+  Product		       Qty		  Price
+-------------------------------------------
+ Bath Soap			 1	 40
+ Face Cream			 1	 40
+ Rice			 1	 30
+ RoohAfza			 1	 50
+-------------------------------------------
+ Cosmetic Tax			 4.0
+ Grocery Tax			 0.9
+ Drinks Tax			 1.0
+-------------------------------------------
+ Total Bill :				 Rs.165.9
+-------------------------------------------
